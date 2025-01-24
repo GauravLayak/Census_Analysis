@@ -7,7 +7,7 @@ This repository contains SQL scripts for managing and analyzing census data. The
 ### Database Setup
 
 - **Database Creation**: The project starts by creating a database named `census_db`.
- **Tables Creation**:
+- **Tables Creation**:
   **district table**:
 ```sql
 DROP TABLE IF EXISTS district;
