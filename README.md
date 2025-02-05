@@ -54,7 +54,7 @@ where states like '%Not Provided%';
 7. **Top and Bottom 3 states in literacy ratio**
 
 8a. **States starting with letter 'A' and 'B'**
-
+ 
 8b. **States starting with letter 'M' and ending with 'A'**
 
 
